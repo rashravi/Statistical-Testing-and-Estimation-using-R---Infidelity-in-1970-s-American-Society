@@ -1,0 +1,2 @@
+# Statistical-Testing-and-Estimation-using-R---Infidelity-in-1970-s-American-Society
+Dataset is based on survey of married American adults, published by Psychology Today, in 1970  and extramarital affairs.  Considered a taboo subject, topic was broached carefully by keeping questions at a high level.  Statistical tests were performed with hypothesis formed using basic public conceptions and patterns observed in visualizations. Also, logistic regression model was built which classified a person to be loyal or not.
